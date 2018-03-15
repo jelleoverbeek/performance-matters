@@ -21,4 +21,13 @@
 ### Images
 - Saving the images in a lower quality and resizing them increased the loading speed by approximately 9 seconds.
 - Adding smaller images for devices that won't need big images saved
-- 
+
+
+### Compression
+- Added GZIP decreased 3.42 seconds of the total loading time.
+
+**GZIP Disabled**
+![Without GZIP](https://d.pr/i/YPAG0T+ "Without GZIP")
+
+**GZIP Enabled**
+![With GZIP](https://d.pr/i/auSotc+ "With GZIP")
