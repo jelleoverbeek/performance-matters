@@ -3,7 +3,7 @@
 - Google Chrome
 
 **Original code loading speeds:**
-![Original](https://d.pr/i/oLz3C+ "Original")
+![Original](https://d.pr/i/JPnHzN+ "Original")
 
 ### CSS
 -- Concatenating and minifying decreased css loading time by 0.73 seconds 
