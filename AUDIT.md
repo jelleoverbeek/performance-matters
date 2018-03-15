@@ -6,7 +6,14 @@
 ![Original](https://d.pr/i/JPnHzN+ "Original")
 
 ### CSS
-- Concatenating and minifying decreased css loading time by 0.73 seconds 
+- Concatenating and minifying decreased css loading time by 0.73 seconds
+- Async stylesheet loading first meaningfull paint decreased by 2 seconds
+
+**No async stylesheets**
+![No async stylesheets](https://d.pr/i/MJHlPp+ "No async stylesheets")
+
+**Async stylesheets**
+![Async stylesheets](https://d.pr/i/MJHlPp+ "Async stylesheets")   
 
 ### Fonts
 - Replaced local fonts by CDN decreased font loading time by 8.44 seconds 
@@ -21,7 +28,6 @@
 ### Images
 - Saving the images in a lower quality and resizing them increased the loading speed by approximately 9 seconds.
 - Adding smaller images for devices that won't need big images saved
-
 
 ### Compression
 - Added GZIP decreased 3.42 seconds of the total loading time.

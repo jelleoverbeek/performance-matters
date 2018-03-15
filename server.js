@@ -3,7 +3,7 @@ const nunjucks = require('nunjucks');
 const path = require('path');
 const routeStatic = require('./lib/route-static');
 const redirectIndices = require('./lib/redirect-indices');
-const compression = require('compression')
+const compression = require('compression');
 
 const app = express();
 const baseDir = 'src';
