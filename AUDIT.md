@@ -13,7 +13,7 @@
 ![No async stylesheets](https://d.pr/i/MJHlPp+ "No async stylesheets")
 
 **Async stylesheets**
-![Async stylesheets](https://d.pr/i/MJHlPp+ "Async stylesheets")   
+![Async stylesheets](https://d.pr/i/qyDE6n+ "Async stylesheets")   
 
 ### Fonts
 - Replaced local fonts by CDN decreased font loading time by 8.44 seconds 
