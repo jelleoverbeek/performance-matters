@@ -1,3 +1,8 @@
+Original code loading:
+![Original](https://d.pr/i/oLz3C+ "Original")
+
+### CSS
+
 ### Fonts
 - Replaced local fonts by CDN decreased font loading time by +/- 5 seconds
 
@@ -6,3 +11,4 @@
 
 **After**  
 ![After CDN](https://d.pr/i/UvPLBw+ "After CDN")
+
