@@ -6,7 +6,7 @@
 ![Original](https://d.pr/i/JPnHzN+ "Original")
 
 ### CSS
--- Concatenating and minifying decreased css loading time by 0.73 seconds 
+- Concatenating and minifying decreased css loading time by 0.73 seconds 
 
 ### Fonts
 - Replaced local fonts by CDN decreased font loading time by 8.44 seconds 
