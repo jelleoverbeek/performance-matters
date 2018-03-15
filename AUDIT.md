@@ -1,11 +1,15 @@
-Original code loading:
+## Settings
+- Slow 3G
+- Google Chrome
+
+**Original code loading speeds:**
 ![Original](https://d.pr/i/oLz3C+ "Original")
 
 ### CSS
 -- Concatenating and minifying decreased css loading time by 0.73 seconds 
 
 ### Fonts
-- Replaced local fonts by CDN decreased font loading time by 8.44 seconds
+- Replaced local fonts by CDN decreased font loading time by 8.44 seconds 
 
 **After**  
 ![After CDN](https://d.pr/i/UvPLBw+ "After CDN")
