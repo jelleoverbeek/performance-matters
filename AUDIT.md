@@ -37,3 +37,12 @@
 
 **GZIP Enabled**
 ![With GZIP](https://d.pr/i/auSotc+ "With GZIP")
+
+
+# Results
+
+**The original audit**
+![Original audit](https://d.pr/i/ZzSTbz+ "Original audit")
+
+**The final audit**
+![Final audit](https://d.pr/i/gfdAej+ "Final audit")
